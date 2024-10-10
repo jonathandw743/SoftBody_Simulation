@@ -1,5 +1,7 @@
 # Soft Body Simulation
 
-A soft body physics Simulation in Java using [Processing](https://processing.org/).
+This program simulates a soft body using point collision with polygons and spring-like forces between points.
+
+I programmed this in Java, using \href{https://processing.org/}{Processing}.
 
 ![Soft body simulation](images/softbodysimulation.png)
